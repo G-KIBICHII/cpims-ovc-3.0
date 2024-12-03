@@ -92,3 +92,4 @@ This Project is under the [`Apache`](https://choosealicense.com/licenses/) Licen
 3. [Amos Kipyegon](https://github.com/Amos-Ditto)
 4. [Joseph Karanja](https://github.com/joe052)
 5. [Isaiah Mwinga](https://github.com/izzoh-ade)
+6. 
